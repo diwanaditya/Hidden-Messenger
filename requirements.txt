@@ -1,0 +1,16 @@
+# Core Async and Networking
+asyncio         # Built into Python, no install needed
+socket          # Built into Python
+threading       # Built into Python
+
+# Cryptography and Security
+cryptography==43.0.1
+pyOpenSSL==24.2.1
+
+# Data Serialization & Hashing
+jsonschema==4.23.0
+base58==2.1.1
+
+# Utility and Helpers
+typing-extensions==4.12.2
+pathlib==1.0.1
